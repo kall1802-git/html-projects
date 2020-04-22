@@ -4,3 +4,4 @@ mini projects for HTML training courses
 * fashion-blog
 * wine-tasting-table
 * form-a-story
+* new-york-city-blog
