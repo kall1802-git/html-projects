@@ -8,3 +8,4 @@ mini projects for HTML training courses
 * heathly-recipes
 * olivia-woodruff-portfolio
 * DevProject
+* dasmoto-s-arts-and-crafts
