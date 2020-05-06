@@ -7,3 +7,4 @@ mini projects for HTML training courses
 * new-york-city-blog
 * heathly-recipes
 * olivia-woodruff-portfolio
+* DevProject
