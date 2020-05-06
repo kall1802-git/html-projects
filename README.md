@@ -5,3 +5,5 @@ mini projects for HTML training courses
 * wine-tasting-table
 * form-a-story
 * new-york-city-blog
+* heathly-recipes
+* olivia-woodruff-portfolio
